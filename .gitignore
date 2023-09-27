@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.git/
+.idea/
+node_modules/
+dist/
+data/~$defs.xlsx
